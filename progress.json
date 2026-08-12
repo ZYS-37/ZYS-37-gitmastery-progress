@@ -43,5 +43,14 @@
       "Cmd('git') failed due to: exit code(128)\n  cmdline: git sparse-checkout set --skip-checks staging_intervention/verify.py\n  stderr: 'fatal: unable to access 'https://github.com/git-mastery/exercises.git/': Failed to connect to github.com:443 after 21063 ms: Could not connect to server\nfatal: could not fetch 37742ecefca4e39e32d91c959c050bc5c692d1e6 from promisor remote'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786527247.338956,
+    "completed_at": 1786527249.534536,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
   }
 ]
